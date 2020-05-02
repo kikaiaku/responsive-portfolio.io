@@ -1,9 +1,23 @@
 body{
-background-image: url(https://image.freepik.com/free-vector/abstract-technology-background-web-developer-computer-code_88211-423.jpg);
+background-image: url(https://d2gg9evh47fn9z.cloudfront.net/thumb_COLOURBOX19425712.jpg);
 color: yellow;
 font-size: 30px;
 }
 h1{
     color: palegreen;
     font-family: 'Marck Script', cursive;
+}
+.container{
+    background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v627-aew-11-technologybackground_1.jpg?w=800&dpr=1&fit=default&crop=default&auto=format&fm=pjpg&q=75&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=bb5d56aabf5f9b6f4ec5f5bbd5061699);
+
+}
+.card{
+background-image: url(https://d2gg9evh47fn9z.cloudfront.net/thumb_COLOURBOX19425712.jpg);
+margin-bottom: 20px;
+margin-left: 20px;
+margin-right: 20px;
+
+}
+h2{
+    text-align: center;
 }
